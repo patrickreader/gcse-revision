@@ -1,1 +1,4 @@
-remote_theme: smallmuou/Jekyll-Pithy
+theme: jekyll-theme-cayman
+title: GCSE Revision
+description: My revision notes for GCSE
+show_downloads: false
