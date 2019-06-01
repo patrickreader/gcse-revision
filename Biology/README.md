@@ -7,8 +7,9 @@
 #### B1 Cell Biology
 * [B1.1 Cell Structure](./B1.1)
 * [B1.2 Cell Division](./B1.2)
-    - Required Practical: [B1.2.1 Using a Light Microscope]
+    - Required Practical: [B1.2.1 Using a Light Microscope](./Required Practicals/B1.2.1)
 * [B1.3 Transport in Cells](./B1.3)
+    - Required Practical: [B1.2.1 Osmosis in Plants](./Required Practicals/B1.3.1)
 
 #### B2 Organisation
 * [B2.1 Principles of Organisation](./B2.1)
