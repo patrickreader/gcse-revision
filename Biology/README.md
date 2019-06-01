@@ -7,10 +7,13 @@
 #### B1 Cell Biology
 * [B1.1 Cell Structure](./B1.1)
 * [B1.2 Cell Division](./B1.2)
+    - Required Practical: [B1.2.1 Using a Light Microscope]
 * [B1.3 Transport in Cells](./B1.3)
+
 #### B2 Organisation
 * [B2.1 Principles of Organisation](./B2.1)
 * [B2.2 Animal Tissues, Organs, and Organ Systems](./B2.2)
+
 #### B3 Infection and Response
 * [B3.1 Communicable Diseases](./B3.1)
 * [B3.2 Monoclonal Antibodies](./B3.2)
