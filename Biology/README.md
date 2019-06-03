@@ -22,3 +22,6 @@
     - Required Practical: [B3.1.1 Preventing Bacterial Growth](./Required Practicals/B3.1.1)
 * [B3.2 Monoclonal Antibodies](./B3.2)
 * [B3.3 Plant Disease](./B3.3)
+
+#### B4 Bioenergetics
+* [B4.1 Bioenergetics](./B4.1)
