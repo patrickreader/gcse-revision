@@ -25,3 +25,4 @@
 
 #### B4 Bioenergetics
 * [B4.1 Bioenergetics](./B4.1)
+    - Required Practical: [B4.1.1 Rate of Photosynthesis](./Required Practicals/B4.1.1)
