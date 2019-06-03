@@ -14,6 +14,8 @@
 #### B2 Organisation
 * [B2.1 Principles of Organisation](./B2.1)
 * [B2.2 Animal Tissues, Organs, and Organ Systems](./B2.2)
+    - Required Practical: [B2.2.1 Food Tests](./Required Practicals/B2.2.1)
+    - Required Practical: [B2.2.2 Amylase pH Investigation](./Required Practicals/B2.2.2)
 
 #### B3 Infection and Response
 * [B3.1 Communicable Diseases](./B3.1)
